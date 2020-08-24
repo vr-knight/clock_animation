@@ -1,6 +1,9 @@
 # clock_animation
 
-A new Flutter application.
+Beautiful clock made using custom painter
+
+![](Screenshot-(132).png)
+![](Screenshot-(132)2.png)
 
 ## Getting Started
 
